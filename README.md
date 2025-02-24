@@ -31,6 +31,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 Waterfall: Linear, step-by-step approach. Best for projects with fixed requirements (e.g., government systems).
 Agile: Iterative, flexible approach. Best for evolving projects (e.g., mobile apps).
 
+
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developer: Writes and maintains code.
 Quality Assurance Engineer: Tests and ensures software quality.
